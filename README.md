@@ -1,4 +1,4 @@
-Hi, welcome to my gitub.
+Hi, welcome to my github!
 
 <p>
   <img src="https://github.com/sw33tsoda/sw33tsoda/assets/61373631/42ef5c07-0ec2-4349-b5d6-1a2105de73af" width="50" height="50">
@@ -10,4 +10,5 @@ Hi, welcome to my gitub.
   
   <img src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" width="50" height="50">
   <img src="https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png" width="50" height="50">
+  <img src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" width="50" height="50">
 </p>
