@@ -12,3 +12,5 @@ Hi, welcome to my github!
   <img src="https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png" width="50" height="50">
   <img src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" width="50" height="50">
 </p>
+
+![](https://komarev.com/ghpvc/?username=sw33tsoda&color=blueviolet)
