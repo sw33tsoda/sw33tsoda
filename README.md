@@ -13,6 +13,4 @@ Hi, welcome to my github!
   <img src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" width="50" height="50">
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=sw33tsoda&theme=gruvbox-duo&hide_border=true&border_radius=50)](https://git.io/streak-stats)
-
 ![](https://komarev.com/ghpvc/?username=sw33tsoda&color=blueviolet)
